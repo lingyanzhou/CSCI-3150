@@ -1,0 +1,5 @@
+1. To compile, type in "make release".
+2. After compilation, to run the phase 1 OS shell, type in "./Phase1".
+3. After compilation, to run the phase 2 OS shell, type in "./Phase2".
+4. To cleanup object files, type in "make clean"
+4. README, Makefile and tags are not c++ source files.
